@@ -2,7 +2,7 @@
 
 tensorflowjs-app is a React application developed with tensorflowjs.
 
-## Run Nodjs development server
+## Run Nodejs development server
 
 
 ```bash
